@@ -1,8 +1,6 @@
+streamlit
 pandas
 tqdm
 sentence-transformers
-torch
 requests
 PyMuPDF==1.22.5
-streamlitstreamlit run app.py
-
