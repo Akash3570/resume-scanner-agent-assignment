@@ -12,15 +12,16 @@ A simple and intelligent Python-based ML agent that:
 ## 📁 Project Structure
 resume-scanner-agent-assignment/
 ├── ml-agent/
-│ ├── agent.py
-│ ├── resume_parser.py
-│ ├── job_matcher.py
-│ └── utils.py
+│   ├── agent.py
+│   ├── resume_parser.py
+│   ├── job_matcher.py
+│   └── utils.py
 ├── data/
-│ ├── sample_resumes.csv
-│ └── sample_job_description.txt
+│   ├── sample_resumes.csv
+│   └── sample_job_description.txt
 ├── requirements.txt
 ├── README.md
+
 
 
 ## 📽 Demo Video
