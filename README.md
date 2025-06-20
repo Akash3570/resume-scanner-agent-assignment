@@ -22,3 +22,40 @@ resume-scanner-agent-assignment/
 ├── requirements.txt
 ├── README.md
 
+
+
+---
+
+## 🚀 Features
+
+- ✅ Resume parsing from PDF (local or Drive)
+- ✅ Job description embedding
+- ✅ Semantic similarity scoring (1–10)
+- ✅ Reasoning generation
+- ✅ Output saved to CSV
+- ✅ Modular codebase
+
+---
+
+## 📽 Demo Video
+
+▶️ [Watch Demo Video](https://drive.google.com/file/d/your-demo-video-id/view)  
+
+---
+
+## 🧪 Sample Input
+
+**📄sample_resumes.csv`**
+```csv
+name,resume_link
+abhishek.verma.cseaiml.2022@miet.ac.in,https://drive.google.com/uc?id=1MbaakVxXZMkqHt54NFTeGa7tGI_QRCiH
+harshit.sharma.csit.2022@miet.ac.in,https://drive.google.com/open?id=1WtOp08beIhnOlt8hqoJ2yT8HdVshsvqi
+umang.gupta.csit.2022@miet.ac.in,https://drive.google.com/open?id=1_FXT2Ie_ORGWivjf7aFWwg8bUhxN-G5x
+
+
+**📄sample_output.csv**
+name,resume_link,score,reasoning
+abhishek.verma.cseaiml.2022@miet.ac.in,https://drive.google.com/uc?id=1MbaakVxXZMkqHt54NFTeGa7tGI_QRCiH,3.67,Weak match.
+harshit.sharma.csit.2022@miet.ac.in,https://drive.google.com/open?id=1WtOp08beIhnOlt8hqoJ2yT8HdVshsvqi,0.03,Weak match.
+umang.gupta.csit.2022@miet.ac.in,https://drive.google.com/open?id=1_FXT2Ie_ORGWivjf7aFWwg8bUhxN-G5x,0.03,Weak match.
+
