@@ -59,3 +59,9 @@ abhishek.verma.cseaiml.2022@miet.ac.in,https://drive.google.com/uc?id=1MbaakVxXZ
 harshit.sharma.csit.2022@miet.ac.in,https://drive.google.com/open?id=1WtOp08beIhnOlt8hqoJ2yT8HdVshsvqi,0.03,Weak match.
 umang.gupta.csit.2022@miet.ac.in,https://drive.google.com/open?id=1_FXT2Ie_ORGWivjf7aFWwg8bUhxN-G5x,0.03,Weak match.
 
+📦 Tech Stack
+Python 3
+pandas, tqdm
+sentence-transformers
+PyMuPDF
+requests
