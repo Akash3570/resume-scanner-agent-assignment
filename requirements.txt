@@ -1,0 +1,6 @@
+pandas
+tqdm
+sentence-transformers
+torch
+requests
+PyMuPDF==1.22.5
